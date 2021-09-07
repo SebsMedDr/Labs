@@ -1,0 +1,193 @@
+Vernier Format 2
+Launch Data (Back Group).txt 8/11/117 10:54:35
+Run 1
+Time	Gate State	Pulse Time	Speed	
+T	G	P	S	
+s		s	m/s	
+
+0.00000	Blocked			
+0.00342	Unblocked			
+0.01019	Blocked	0.010195	4.904	
+0.01363	Unblocked			
+44.45609	Blocked	44.445891	0.001	
+45.48281	Unblocked			
+Vernier Format 2
+Launch Data (Back Group).txt 8/11/117 10:54:35
+Run 2
+Time	Gate State	Pulse Time	Speed	
+T	G	P	S	
+s		s	m/s	
+
+0.00000	Blocked			
+0.00326	Unblocked			
+0.00971	Blocked	0.009714	5.147	
+0.01298	Unblocked			
+0.42241	Blocked	0.412701	0.121	
+1.45177	Unblocked			
+Vernier Format 2
+Launch Data (Back Group).txt 8/11/117 10:54:35
+Run 3
+Time	Gate State	Pulse Time	Speed	
+T	G	P	S	
+s		s	m/s	
+
+0.00000	Blocked			
+0.00339	Unblocked			
+0.01007	Blocked	0.010072	4.964	
+0.01347	Unblocked			
+0.41869	Blocked	0.408614	0.122	
+1.44735	Unblocked			
+Vernier Format 2
+Launch Data (Back Group).txt 8/11/117 10:54:35
+Run 4
+Time	Gate State	Pulse Time	Speed	
+T	G	P	S	
+s		s	m/s	
+
+0.00000	Blocked			
+0.00341	Unblocked			
+0.01016	Blocked	0.010155	4.924	
+0.01358	Unblocked			
+0.41831	Blocked	0.408160	0.123	
+1.44601	Unblocked			
+Vernier Format 2
+Launch Data (Back Group).txt 8/11/117 10:54:35
+Run 5
+Time	Gate State	Pulse Time	Speed	
+T	G	P	S	
+s		s	m/s	
+
+0.00000	Blocked			
+0.00329	Unblocked			
+0.00980	Blocked	0.009799	5.103	
+0.01309	Unblocked			
+0.41826	Blocked	0.408463	0.122	
+1.44589	Unblocked			
+Vernier Format 2
+Launch Data (Back Group).txt 8/11/117 10:54:35
+Run 6
+Time	Gate State	Pulse Time	Speed	
+T	G	P	S	
+s		s	m/s	
+
+0.00000	Blocked			
+0.00330	Unblocked			
+0.00980	Blocked	0.009804	5.100	
+0.01311	Unblocked			
+0.41874	Blocked	0.408937	0.122	
+1.44618	Unblocked			
+Vernier Format 2
+Launch Data (Back Group).txt 8/11/117 10:54:35
+Run 7
+Time	Gate State	Pulse Time	Speed	
+T	G	P	S	
+s		s	m/s	
+
+0.00000	Blocked			
+0.00333	Unblocked			
+0.00991	Blocked	0.009908	5.046	
+0.01323	Unblocked			
+0.41893	Blocked	0.409020	0.122	
+1.44627	Unblocked			
+Vernier Format 2
+Launch Data (Back Group).txt 8/11/117 10:54:35
+Run 8
+Time	Gate State	Pulse Time	Speed	
+T	G	P	S	
+s		s	m/s	
+
+0.00000	Blocked			
+0.00374	Unblocked			
+0.01109	Blocked	0.011090	4.509	
+0.01485	Unblocked			
+0.41806	Blocked	0.406966	0.123	
+1.44479	Unblocked			
+Vernier Format 2
+Launch Data (Back Group).txt 8/11/117 10:54:35
+Run 9
+Time	Gate State	Pulse Time	Speed	
+T	G	P	S	
+s		s	m/s	
+
+0.00000	Blocked			
+0.00370	Unblocked			
+0.01096	Blocked	0.010964	4.560	
+0.01467	Unblocked			
+0.41780	Blocked	0.406840	0.123	
+1.44456	Unblocked			
+Vernier Format 2
+Launch Data (Back Group).txt 8/11/117 10:54:35
+Run 10
+Time	Gate State	Pulse Time	Speed	
+T	G	P	S	
+s		s	m/s	
+
+0.00000	Blocked			
+0.00385	Unblocked			
+0.01138	Blocked	0.011380	4.394	
+0.01524	Unblocked			
+0.41982	Blocked	0.408443	0.122	
+1.44640	Unblocked			
+Vernier Format 2
+Launch Data (Back Group).txt 8/11/117 10:54:35
+Run 11
+Time	Gate State	Pulse Time	Speed	
+T	G	P	S	
+s		s	m/s	
+
+0.00000	Blocked			
+0.00359	Unblocked			
+0.01065	Blocked	0.010650	4.695	
+0.01424	Unblocked			
+0.42022	Blocked	0.409569	0.122	
+1.44680	Unblocked			
+Vernier Format 2
+Launch Data (Back Group).txt 8/11/117 10:54:35
+Run 12
+Time	Gate State	Pulse Time	Speed	
+T	G	P	S	
+s		s	m/s	
+
+0.00000	Blocked			
+0.00357	Unblocked			
+0.01060	Blocked	0.010601	4.717	
+0.01418	Unblocked			
+0.41940	Blocked	0.408800	0.122	
+1.44589	Unblocked			
+Vernier Format 2
+Launch Data (Back Group).txt 8/11/117 10:54:35
+Run 13
+Time	Gate State	Pulse Time	Speed	
+T	G	P	S	
+s		s	m/s	
+
+0.00000	Blocked			
+0.00363	Unblocked			
+0.01075	Blocked	0.010752	4.650	
+0.01440	Unblocked			
+0.41741	Blocked	0.406658	0.123	
+1.44369	Unblocked			
+Vernier Format 2
+Launch Data (Back Group).txt 8/11/117 10:54:35
+Run 14
+Time	Gate State	Pulse Time	Speed	
+T	G	P	S	
+s		s	m/s	
+
+0.00000	Blocked			
+0.00302	Unblocked			
+0.00903	Blocked	0.009032	5.536	
+0.01207	Unblocked			
+0.41995	Blocked	0.410919	0.122	
+1.44625	Unblocked			
+Vernier Format 2
+Launch Data (Back Group).txt 8/11/117 10:54:35
+Run 15
+Time	Gate State	Pulse Time	Speed	
+T	G	P	S	
+s		s	m/s	
+
+0.00000	Blocked			
+0.00395	Unblocked			
+0.01173	Blocked	0.011730	4.263	
+0.01570	Unblocked			
